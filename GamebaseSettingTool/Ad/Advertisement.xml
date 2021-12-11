@@ -1,0 +1,34 @@
+<info>
+<intervalTime>3</intervalTime>
+<imagePath>image/</imagePath>
+<advertisements>
+<advertisement>
+<name>Smart Downloader</name>
+<imageName>c_smartdownloader.jpg</imageName>
+<link>https://docs.toast.com/ko/Game/Smart%20Downloader/ko/Overview/</link>
+<description>Smart Downloader Description</description>
+<timeInfo>
+<startTime>2019-04-09 00:00</startTime>
+<endTime>2029-05-20 23:59</endTime>
+<day>
+<start>00</start>
+<end>24</end>
+</day>
+</timeInfo>
+</advertisement>
+<advertisement>
+<name>Leader Board</name>
+<imageName>c_leaderboard.jpg</imageName>
+<link>https://docs.toast.com/ko/Game/Leaderboard/ko/Overview/</link>
+<description>Leader Board Description</description>
+<timeInfo>
+<startTime>2019-04-09 00:00</startTime>
+<endTime>2029-05-30 23:59</endTime>
+<day>
+<start>00</start>
+<end>24</end>
+</day>
+</timeInfo>
+</advertisement>
+</advertisements>
+</info>

@@ -1,0 +1,34 @@
+{
+	"intervalTime":3,
+	"imagePath":"image/",
+	"items":{
+		"item":{
+			"name":"Smart Downloader",
+			"imageName":"c_smartdownloader.jpg",
+			"link":"https://docs.toast.com/ko/Game/Smart%20Downloader/ko/Overview/",
+			"description":"Smart Downloader Description",
+			"timeInfo":{
+				"startTime":"2019-04-09 00:00",
+				"endTime":"2029-05-20 23:59",
+				"day":{
+					"start":"00",
+					"end":"24"
+				}
+			}				
+		},
+		"item":{
+			"name":"Leader Board",
+			"imageName":"c_leaderboard.jpg",
+			"link":"https://docs.toast.com/ko/Game/Leaderboard/ko/Overview/",
+			"description":"Leader Board Description",
+			"timeInfo":{
+				"startTime":"2019-04-09 00:00",
+				"endTime":"2029-05-30 23:59",
+				"day":{
+					"start":"00",
+					"end":"24"
+				}
+			}				
+		}
+	}
+}
