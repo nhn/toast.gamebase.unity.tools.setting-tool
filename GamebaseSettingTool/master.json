@@ -1,0 +1,13 @@
+{
+	"version":{
+		"path":"version.json"
+	},
+	"ad": {
+		"path":"Ad/ad.json"
+	},
+    "launching":{
+        "url":"https://api-lnc.cloud.toast.com/launching",
+        "version":"v3.0",
+        "appKey":"nJurfTWUalNPJCHf"
+    }
+}
