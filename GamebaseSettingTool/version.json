@@ -4,12 +4,12 @@
         "newest": "2.2.0"
     },
     "unity": {
-        "newest": "2.36.0"
+        "newest": "2.37.0"
     },
     "android": {
-        "newest": "2.36.0"
+        "newest": "2.37.0"
     },
     "ios": {
-        "newest": "2.36.0"
+        "newest": "2.37.0"
     }
 }
