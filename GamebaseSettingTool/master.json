@@ -8,6 +8,7 @@
     "launching": {
         "url": "https://api-lnc.cloud.toast.com/launching",
         "version": "v3.0",
-        "appKey": "nJurfTWUalNPJCHf"
+        "appKey": "5247A7zrh1RPFQI6",
+		"isEncoding": false
     }
 }
