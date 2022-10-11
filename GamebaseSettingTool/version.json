@@ -1,7 +1,7 @@
 {
     "settingTool": {
-        "minimum": "2.4.0",
-        "newest": "2.4.1"
+        "minimum": "2.4.2",
+        "newest": "2.4.2"
     },
     "unity": {
         "newest": "2.44.0"
