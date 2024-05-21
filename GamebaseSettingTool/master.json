@@ -9,6 +9,7 @@
         "url": "https://api-lnc.cloud.toast.com/launching",
         "version": "v3.0",
         "appKey": "77va1DvJCwgqZaLv",
+        "subKey":  "launching.gamebase",
         "isEncoding": false
     }
 }
