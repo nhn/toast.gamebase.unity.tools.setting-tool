@@ -1,20 +1,34 @@
 <info>
-<intervalTime>3</intervalTime>
-<imagePath>image/</imagePath>
-<advertisements>
-<advertisement>
-<name>Leader Board</name>
-<imageName>c_leaderboard.jpg</imageName>
-<link>https://docs.toast.com/ko/Game/Leaderboard/ko/Overview/</link>
-<description>Leader Board Description</description>
-<timeInfo>
-<startTime>2019-04-09 00:00</startTime>
-<endTime>2029-05-30 23:59</endTime>
-<day>
-<start>00</start>
-<end>24</end>
-</day>
-</timeInfo>
-</advertisement>
-</advertisements>
+    <intervalTime>3</intervalTime>
+    <imagePath>image/</imagePath>
+    <advertisements>
+        <advertisement>
+            <name>GameAnvil</name>
+            <imageName>c_gameanvil.jpg</imageName>
+            <link>https://docs.nhncloud.com/en/Game/GameAnvil/en/overview/</link>
+            <description>GameAnvil Description</description>
+            <timeInfo>
+                <startTime>2019-04-09 00:00</startTime>
+                <endTime>2029-05-30 23:59</endTime>
+                <day>
+                    <start>00</start>
+                    <end>24</end>
+                </day>
+            </timeInfo>
+        </advertisement>
+        <advertisement>
+            <name>Game Package Manager</name>
+            <imageName>c_gpm.png</imageName>
+            <link>https://assetstore.unity.com/packages/tools/utilities/game-package-manager-147711</link>
+            <description>Game Package Manager Description</description>
+            <timeInfo>
+                <startTime>2019-04-09 00:00</startTime>
+                <endTime>2029-05-30 23:59</endTime>
+                <day>
+                    <start>00</start>
+                    <end>24</end>
+                </day>
+            </timeInfo>
+        </advertisement>
+    </advertisements>
 </info>
