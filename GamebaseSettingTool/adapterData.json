@@ -607,8 +607,8 @@
                     ]
                 },
                 {
-                    "name" : "APNS",
-                    "displayName": "APNS",
+                    "name" : "APNs",
+                    "displayName": "APNs",
                     "platforms" : [
                         {
                             "name" : "iOS",
