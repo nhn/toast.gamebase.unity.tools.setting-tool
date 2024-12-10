@@ -3,7 +3,7 @@
         "minimum": "2.11.0",
         "newest": "2.11.0"
     },
-    "unity": {"newest": "2.68.0"},
+    "unity": {"newest": "2.68.1"},
     "android": {"newest": "2.68.0"},
-    "ios": {"newest": "2.68.0"}
+    "ios": {"newest": "2.68.1"}
 }
