@@ -1,7 +1,7 @@
 {
     "settingTool":     {
-        "minimum": "2.11.0",
-        "newest": "2.11.0"
+        "minimum": "3.0.0",
+        "newest": "3.0.0"
     },
     "unity": {"newest": "2.68.1"},
     "android": {"newest": "2.68.0"},
