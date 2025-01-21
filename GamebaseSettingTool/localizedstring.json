@@ -26,7 +26,8 @@
             "EXTRA_MIN_IOS_SDK_14_TEXT":"Supported on iOS 14 and later.\nSet the target minimum iOS Version to 14.0 or later.",
             "EXTRA_NEED_ANDROID_MANIFEST_SETTING":"There are required AndroidManifest settings.",
             "SETTING_GUIDE":"[Setting Guide]",
-            "EXTRA_DOWNLOAD_LINK":"[Download]"
+            "EXTRA_DOWNLOAD_LINK":"[Download]",
+            "UI_TEXT_LINK_GAMEBASE_UPGRADE_GUIDE_LINK":"https://docs.nhncloud.com/en/Game/Gamebase/en/upgrade-guide/"
         }
     },
     "ko": {
@@ -56,7 +57,8 @@
             "EXTRA_MIN_IOS_SDK_14_TEXT":"iOS 14 이상에서 지원합니다.\nTarget minimum iOS Version을 14.0 이상으로 설정하세요.",
             "EXTRA_NEED_ANDROID_MANIFEST_SETTING":"필요한 AndroidManifest 설정이 있습니다.",
             "SETTING_GUIDE":"[설정 가이드]",
-            "EXTRA_DOWNLOAD_LINK":"[다운로드]"
+            "EXTRA_DOWNLOAD_LINK":"[다운로드]",
+            "UI_TEXT_LINK_GAMEBASE_UPGRADE_GUIDE_LINK":"https://docs.nhncloud.com/ko/Game/Gamebase/ko/upgrade-guide/"
         }
     },
     "ja": {
@@ -86,7 +88,8 @@
             "EXTRA_MIN_IOS_SDK_14_TEXT":"iOS 14以上でサポートします。\nTarget minimum iOS Versionを14.0以上に設定してください。",
             "EXTRA_NEED_ANDROID_MANIFEST_SETTING":"必要なAndroidManifest設定があります。",
             "SETTING_GUIDE":"[設定ガイド]",
-            "EXTRA_DOWNLOAD_LINK":"[ダウンロード]"
+            "EXTRA_DOWNLOAD_LINK":"[ダウンロード]",
+            "UI_TEXT_LINK_GAMEBASE_UPGRADE_GUIDE_LINK":"https://docs.nhncloud.com/ja/Game/Gamebase/ja/upgrade-guide/"
         }
     }
 }
