@@ -88,24 +88,6 @@
                             "type" : "link",
                             "text" : "SETTING_GUIDE",
                             "value" : "https://docs.nhncloud.com/ko/Game/Gamebase/ko/aos-started/#facebook-idp"
-                        },
-                        {
-                            "platform" : "Windows",
-                            "type" : "check_adapter",
-                            "text" : "EXTRA_NEED_DESKTOP_WEBVIEW_WINDOW_TEXT",
-                            "value" : "WebView"
-                        },
-                        {
-                            "platform" : "macOS",
-                            "type" : "check_adapter",
-                            "text" : "EXTRA_NEED_DESKTOP_WEBVIEW_MACOS_TEXT",
-                            "value" : "WebView"
-                        },
-                        {
-                            "platform" : "macOS",
-                            "type" : "check_unity_version",
-                            "text" : "EXTRA_MACOS_PC_WEBVIEW_NEED_MINVERSION_TEXT",
-                            "value" : "2021.3.35"
                         }
                     ],
                     
@@ -123,39 +105,16 @@
                             }
                         },
                         {
-                            "name" : "Windows",
-                            "include": ["WebView"]
+                            "name" : "Windows"
                         },
                         {
-                            "name" : "macOS",
-                            "minGamebaseVersion" : "2.63.0",
-                            "include": ["WebView"]
+                            "name" : "macOS"
                         }
                     ]
                 },
                 {
                     "name" : "Google",
                     "displayName": "Google",
-                    "extras" : [
-                        {
-                            "platform" : "Windows",
-                            "type" : "check_adapter",
-                            "text" : "EXTRA_NEED_DESKTOP_WEBVIEW_WINDOW_TEXT",
-                            "value" : "WebView"
-                        },
-                        {
-                            "platform" : "macOS",
-                            "type" : "check_adapter",
-                            "text" : "EXTRA_NEED_DESKTOP_WEBVIEW_MACOS_TEXT",
-                            "value" : "WebView"
-                        },
-                        {
-                            "platform" : "macOS",
-                            "type" : "check_unity_version",
-                            "text" : "EXTRA_MACOS_PC_WEBVIEW_NEED_MINVERSION_TEXT",
-                            "value" : "2021.3.35"
-                        }
-                    ],
                     "platforms" : [
                         {
                             "name" : "Android",
@@ -170,13 +129,10 @@
                             }
                         },
                         {
-                            "name" : "Windows",
-                            "include": ["WebView"]
+                            "name" : "Windows"
                         },
                         {
-                            "name" : "macOS",
-                            "minGamebaseVersion" : "2.63.0",
-                            "include": ["WebView"]
+                            "name" : "macOS"
                         }
                     ]
                 },
@@ -210,26 +166,6 @@
                 {
                     "name" : "Naver",
                     "displayName": "NAVER",
-                    "extras" : [
-                        {
-                            "platform" : "Windows",
-                            "type" : "check_adapter",
-                            "text" : "EXTRA_NEED_DESKTOP_WEBVIEW_WINDOW_TEXT",
-                            "value" : "WebView"
-                        },
-                        {
-                            "platform" : "macOS",
-                            "type" : "check_adapter",
-                            "text" : "EXTRA_NEED_DESKTOP_WEBVIEW_MACOS_TEXT",
-                            "value" : "WebView"
-                        },
-                        {
-                            "platform" : "macOS",
-                            "type" : "check_unity_version",
-                            "text" : "EXTRA_MACOS_PC_WEBVIEW_NEED_MINVERSION_TEXT",
-                            "value" : "2021.3.35"
-                        }
-                    ],
                     "platforms" : [
                         {
                             "name" : "Android",
@@ -244,39 +180,16 @@
                             }
                         },
                         {
-                            "name" : "Windows",
-                            "include": ["WebView"]
+                            "name" : "Windows"
                         },
                         {
-                            "name" : "macOS",
-                            "minGamebaseVersion" : "2.63.0",
-                            "include": ["WebView"]
+                            "name" : "macOS"
                         }
                     ]
                 },
                 {
                     "name" : "Twitter",
                     "displayName": "Twitter",
-                    "extras" : [
-                        {
-                            "platform" : "Windows",
-                            "type" : "check_adapter",
-                            "text" : "EXTRA_NEED_DESKTOP_WEBVIEW_WINDOW_TEXT",
-                            "value" : "WebView"
-                        },
-                        {
-                            "platform" : "macOS",
-                            "type" : "check_adapter",
-                            "text" : "EXTRA_NEED_DESKTOP_WEBVIEW_MACOS_TEXT",
-                            "value" : "WebView"
-                        },
-                        {
-                            "platform" : "macOS",
-                            "type" : "check_unity_version",
-                            "text" : "EXTRA_MACOS_PC_WEBVIEW_NEED_MINVERSION_TEXT",
-                            "value" : "2021.3.35"
-                        }
-                    ],
                     "platforms" : [
                         {
                             "name" : "Android",
@@ -291,13 +204,10 @@
                             }
                         },
                         {
-                            "name" : "Windows",
-                            "include": ["WebView"]
+                            "name" : "Windows"
                         },
                         {
-                            "name" : "macOS",
-                            "minGamebaseVersion" : "2.63.0",
-                            "include": ["WebView"]
+                            "name" : "macOS"
                         }
                     ]
                 },
@@ -310,24 +220,6 @@
                             "type" : "check_sdk_version",
                             "text" : "EXTRA_MIN_IOS_SDK_13_TEXT",
                             "value" : "13"
-                        },
-                        {
-                            "platform" : "Windows",
-                            "type" : "check_adapter",
-                            "text" : "EXTRA_NEED_DESKTOP_WEBVIEW_WINDOW_TEXT",
-                            "value" : "WebView"
-                        },
-                        {
-                            "platform" : "macOS",
-                            "type" : "check_adapter",
-                            "text" : "EXTRA_NEED_DESKTOP_WEBVIEW_MACOS_TEXT",
-                            "value" : "WebView"
-                        },
-                        {
-                            "platform" : "macOS",
-                            "type" : "check_unity_version",
-                            "text" : "EXTRA_MACOS_PC_WEBVIEW_NEED_MINVERSION_TEXT",
-                            "value" : "2021.3.35"
                         }
                     ],
                     "platforms" : [
@@ -344,13 +236,10 @@
                             }
                         },
                         {
-                            "name" : "Windows",
-                            "include": ["WebView"]
+                            "name" : "Windows"
                         },
                         {
-                            "name" : "macOS",
-                            "minGamebaseVersion" : "2.63.0",
-                            "include": ["WebView"]
+                            "name" : "macOS"
                         }
                     ]
                 },
@@ -369,6 +258,12 @@
                             "install" : {
                                 "name" : "GamebaseAuthAppleidAdapter"
                             }
+                        },
+                        {
+                            "name" : "Windows"
+                        },
+                        {
+                            "name" : "macOS"
                         }
                     ]
                 },
@@ -411,26 +306,6 @@
                 {
                     "name" : "Payco",
                     "displayName": "PAYCO",
-                    "extras" : [
-                        {
-                            "platform" : "Windows",
-                            "type" : "check_adapter",
-                            "text" : "EXTRA_NEED_DESKTOP_WEBVIEW_WINDOW_TEXT",
-                            "value" : "WebView"
-                        },
-                        {
-                            "platform" : "macOS",
-                            "type" : "check_adapter",
-                            "text" : "EXTRA_NEED_DESKTOP_WEBVIEW_MACOS_TEXT",
-                            "value" : "WebView"
-                        },
-                        {
-                            "platform" : "macOS",
-                            "type" : "check_unity_version",
-                            "text" : "EXTRA_MACOS_PC_WEBVIEW_NEED_MINVERSION_TEXT",
-                            "value" : "2021.3.35"
-                        }
-                    ],
                     "platforms" : [
                         {
                             "name" : "Android",
@@ -445,13 +320,10 @@
                             }
                         },
                         {
-                            "name" : "Windows",
-                            "include": ["WebView"]
+                            "name" : "Windows"
                         },
                         {
-                            "name" : "macOS",
-                            "minGamebaseVersion" : "2.63.0",
-                            "include": ["WebView"]
+                            "name" : "macOS"
                         }
                     ]
                 },
