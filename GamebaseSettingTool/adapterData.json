@@ -258,6 +258,12 @@
                             "install" : {
                                 "name" : "GamebaseAuthAppleidAdapter"
                             }
+                        },
+                        {
+                            "name" : "Windows"
+                        },
+                        {
+                            "name" : "macOS"
                         }
                     ]
                 },
