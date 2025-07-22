@@ -481,18 +481,6 @@
                     ]
                 },
                 {
-                    "name": "IapAmazon",
-                    "displayName": "Amazon Store",
-                    "platforms" : [
-                        {
-                            "name" : "Android",
-                            "install" : {
-                                "name" : "com.toast.android.gamebase:gamebase-adapter-purchase-amazon"
-                            }
-                        }
-                    ]
-                },
-                {
                     "name": "IapHuawei",
                     "displayName": "Huawei Store",
                     "extras" : [
@@ -592,18 +580,6 @@
                             "name" : "Android",
                             "install" : {
                                 "name" : "com.toast.android.gamebase:gamebase-adapter-push-fcm"
-                            }
-                        }
-                    ]
-                },
-                {
-                    "name" : "ADM",
-                    "displayName": "ADM",
-                    "platforms" : [
-                        {
-                            "name" : "Android",
-                            "install" : {
-                                "name" : "com.toast.android.gamebase:gamebase-adapter-push-adm"
                             }
                         }
                     ]
