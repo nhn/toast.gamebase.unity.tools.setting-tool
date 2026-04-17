@@ -138,8 +138,8 @@
                 {
                     "platform" : "iOS",
                     "type" : "checkSdkVersion",
-                    "message" : "MESSAGE_IOS_MIN_SDK_12_TEXT",
-                    "value" : "12"
+                    "message" : "MESSAGE_IOS_MIN_SDK_15_TEXT",
+                    "value" : "15"
                 },
                 {
                     "type" : "checkType",

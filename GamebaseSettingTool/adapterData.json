@@ -150,7 +150,7 @@
                             "platform" : "Android",
                             "type" : "link",
                             "text" : "SETTING_GUIDE",
-                            "value" : "https://docs.nhncloud.com/ko/Game/Gamebase/ko/aos-started/#gpgs-v2-idp"
+                            "value" : "https://docs.nhncloud.com/ko/Game/Gamebase/ko/aos-started/#gpgs-idp"
                         }
                     ],
                     "platforms" : [
@@ -370,6 +370,18 @@
                             "install" : {
                                 "name" : "GamebaseAuthGamecenterAdapter"
                             }
+                        }
+                    ]
+                },
+                {
+                    "name" : "EpicGames",
+                    "displayName": "Epic Games",
+                    "platforms" : [
+                        {
+                            "name" : "Windows"
+                        },
+                        {
+                            "name" : "macOS"
                         }
                     ]
                 }
@@ -664,7 +676,7 @@
                             "platform" : "Android",
                             "type" : "link",
                             "text" : "SETTING_GUIDE",
-                            "value" : "https://docs.nhncloud.com/ko/Game/Gamebase/ko/aos-started/#gpgs-v2-idp"
+                            "value" : "https://docs.nhncloud.com/ko/Game/Gamebase/ko/aos-started/#gpgs-idp"
                         }
                     ],
                     "platforms" : [
