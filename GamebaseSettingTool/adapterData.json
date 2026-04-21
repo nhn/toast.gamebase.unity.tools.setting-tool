@@ -105,10 +105,12 @@
                             }
                         },
                         {
-                            "name" : "Windows"
+                            "name" : "Windows",
+                            "alwaysOn" : true
                         },
                         {
-                            "name" : "macOS"
+                            "name" : "macOS",
+                            "alwaysOn" : true
                         }
                     ]
                 },
@@ -129,10 +131,12 @@
                             }
                         },
                         {
-                            "name" : "Windows"
+                            "name" : "Windows",
+                            "alwaysOn" : true
                         },
                         {
-                            "name" : "macOS"
+                            "name" : "macOS",
+                            "alwaysOn" : true
                         }
                     ]
                 },
@@ -180,10 +184,12 @@
                             }
                         },
                         {
-                            "name" : "Windows"
+                            "name" : "Windows",
+                            "alwaysOn" : true
                         },
                         {
-                            "name" : "macOS"
+                            "name" : "macOS",
+                            "alwaysOn" : true
                         }
                     ]
                 },
@@ -204,10 +210,12 @@
                             }
                         },
                         {
-                            "name" : "Windows"
+                            "name" : "Windows",
+                            "alwaysOn" : true
                         },
                         {
-                            "name" : "macOS"
+                            "name" : "macOS",
+                            "alwaysOn" : true
                         }
                     ]
                 },
@@ -236,10 +244,12 @@
                             }
                         },
                         {
-                            "name" : "Windows"
+                            "name" : "Windows",
+                            "alwaysOn" : true
                         },
                         {
-                            "name" : "macOS"
+                            "name" : "macOS",
+                            "alwaysOn" : true
                         }
                     ]
                 },
@@ -260,10 +270,12 @@
                             }
                         },
                         {
-                            "name" : "Windows"
+                            "name" : "Windows",
+                            "alwaysOn" : true
                         },
                         {
-                            "name" : "macOS"
+                            "name" : "macOS",
+                            "alwaysOn" : true
                         }
                     ]
                 },
@@ -320,10 +332,12 @@
                             }
                         },
                         {
-                            "name" : "Windows"
+                            "name" : "Windows",
+                            "alwaysOn" : true
                         },
                         {
-                            "name" : "macOS"
+                            "name" : "macOS",
+                            "alwaysOn" : true
                         }
                     ]
                 },
@@ -378,10 +392,12 @@
                     "displayName": "Epic Games",
                     "platforms" : [
                         {
-                            "name" : "Windows"
+                            "name" : "Windows",
+                            "alwaysOn" : true
                         },
                         {
-                            "name" : "macOS"
+                            "name" : "macOS",
+                            "alwaysOn" : true
                         }
                     ]
                 }
